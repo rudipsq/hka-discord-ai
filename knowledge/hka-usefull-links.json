@@ -1,0 +1,20 @@
+[
+  {
+    "json": {
+      "link": "https://tool-a.com",
+      "description": "Compress images online"
+    }
+  },
+  {
+    "json": {
+      "link": "https://tool-b.com",
+      "description": "Convert PDF files to Word"
+    }
+  },
+  {
+    "json": {
+      "link": "https://tool-c.com",
+      "description": "Generate QR codes"
+    }
+  }
+]
